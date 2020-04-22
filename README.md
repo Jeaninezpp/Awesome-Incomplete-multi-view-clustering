@@ -1,7 +1,7 @@
 # paper
 ## Multi-view Clustering
 ### Survey
-1. [A survey on multi-view learning](chrome-extension://bocbaocobfecmglnmeaeppambideimao/pdf/viewer.html?file=https://arxiv.org/pdf/1304.5634.pdf)
+1. [A survey on multi-view learning](https://arxiv.org/pdf/1304.5634.pdf)
 2. Multi-view clustering: A survey
 3. 
 ### Multi-view Subspace Clustering

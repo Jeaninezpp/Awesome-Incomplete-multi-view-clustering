@@ -43,82 +43,82 @@
 3. Incomplete multi-view clustering via subspace learning
 ---
 多视图 graph-based 缺失：
-1.Adaptive Sample-Level Graph Combination for Partial Multiview Clustering
-2.Anchors bring ease-An embarrassingly simple approach to partial multi-view clustering
-3.Diagnosis of Alzheimer's disease using view-aligned hypergraph learning with incomplete multi-modality data
-4.Incomplete multi-view clustering via graph regularized matrix factorization
+1. Adaptive Sample-Level Graph Combination for Partial Multiview Clustering
+2. Anchors bring ease-An embarrassingly simple approach to partial multi-view clustering
+3. Diagnosis of Alzheimer's disease using view-aligned hypergraph learning with incomplete multi-modality data
+4. Incomplete multi-view clustering via graph regularized matrix factorization
 
-5.Incomplete Multi-view Clustering via Subspace Learning
+5. Incomplete Multi-view Clustering via Subspace Learning
 
-6.Incomplete multi-view clustering
+6. Incomplete multi-view clustering
 
-7.Incomplete multiview spectral clustering with adaptive graph learning
+7. Incomplete multiview spectral clustering with adaptive graph learning
 
-8.Partial multi-view spectral clustering
+8. Partial multi-view spectral clustering
 
-9.Partial multi-view subspace clustering
+9. Partial multi-view subspace clustering
 
-10.Spectral perturbation meets incomplete multi-view data
+10. Spectral perturbation meets incomplete multi-view data
 
-11.Unified embedding alignment with missing views inferring for incomplete multi-view clustering
+11. Unified embedding alignment with missing views inferring for incomplete multi-view clustering
 
-12.Unified subspace learning for incomplete and unlabeled multi-view data
+12. Unified subspace learning for incomplete and unlabeled multi-view data
 
 
 多视图 深度方法 缺失：
-1.Adversarial incomplete multi-view clustering
-2.CPM-Nets-Cross Partial Multi-View Networks
-3.Incomplete multi-view clustering via deep semantic mapping
-4.li2019
-5.Metric learning on healthcare data with incomplete modalities
-6.Partial multi-view clustering via consistent GAN
+1. Adversarial incomplete multi-view clustering
+2. CPM-Nets-Cross Partial Multi-View Networks
+3. Incomplete multi-view clustering via deep semantic mapping
+4. li2019
+5. Metric learning on healthcare data with incomplete modalities
+6. Partial multi-view clustering via consistent GAN
 
 
 多视图 核方法缺失：
-1.Clustering on multiple incomplete datasets via collective kernel learning
-2.Efficient and Effective Regularized Incomplete Multi-view Clustering
-3.Kernel transfer over multiple views for missing data completion
-4.Late Fusion Incomplete Multi-View Clustering
-5.Localized Incomplete Multiple Kernel k-means
-6.Multiple kernel k-means with incomplete kernels
-7.Multiview clustering with incomplete views
-8.Multi-view kernel completion
+1. Clustering on multiple incomplete datasets via collective kernel learning
+2. Efficient and Effective Regularized Incomplete Multi-view Clustering
+3. Kernel transfer over multiple views for missing data completion
+4. Late Fusion Incomplete Multi-View Clustering
+5. Localized Incomplete Multiple Kernel k-means
+6. Multiple kernel k-means with incomplete kernels
+7. Multiview clustering with incomplete views
+8. Multi-view kernel completion
 
 多视图 高阶张量分解 缺失：
-1.Clustering on multi-source incomplete data via tensor modeling and factorization
+1. Clustering on multi-source incomplete data via tensor modeling and factorization
 
 多视图 NMF分解 缺失：
-1.Doubly Aligned Incomplete Multi-view Clustering
-2、Fundamental sampling patterns for low-rank multi-view data completion
-3.Incomplete multi-modal visual data grouping
-4.Infant Brain Development Prediction With Latent Partial Multi-View Representation Learning
-5.Joint Embedding Learning and Low-Rank Approximation-A Framework for Incomplete Multiview Learning
-6.Low-rank multi-view learning in matrix completion for multi-label image classification
-7.Multiple incomplete views clustering via non-negative matrix factorization with its application in Alzheimer's disease analysis
-8.Multiple Incomplete Views Clustering via Weighted Nonnegative Matrix Factorization with  Regularization
-9.Multi-view cluster analysis with incomplete data to understand treatment effects
-10.Multi-view clustering with constraint propagation for learning with an incomplete mapping between views
-11.Multi-View Learning With Incomplete Views
-12.Multi-view missing data completion
-13.One-Pass Incomplete Multi-View Clustering
-14.Online multi-view clustering with incomplete views
-15.Partial multi-view clustering using graph regularized NMF
-16.Partial multi-view clustering
-17.Partial multi-view outlier detection based on collective learning
-18.Partially tagged image clustering
-19.Simultaneous representation learning and clustering for incomplete multi-view data
-20.Unsupervised maximum margin incomplete multi-view clustering
+1. Doubly Aligned Incomplete Multi-view Clustering
+2. Fundamental sampling patterns for low-rank multi-view data completion
+3. Incomplete multi-modal visual data grouping
+4. Infant Brain Development Prediction With Latent Partial Multi-View Representation Learning
+5. Joint Embedding Learning and Low-Rank Approximation-A Framework for Incomplete Multiview Learning
+6. Low-rank multi-view learning in matrix completion for multi-label image classification
+7. Multiple incomplete views clustering via non-negative matrix factorization with its application in Alzheimer's disease analysis
+8. Multiple Incomplete Views Clustering via Weighted Nonnegative Matrix Factorization with  Regularization
+9. Multi-view cluster analysis with incomplete data to understand treatment effects
+10. Multi-view clustering with constraint propagation for learning with an incomplete mapping between views
+11. Multi-View Learning With Incomplete Views
+12. Multi-view missing data completion
+13. One-Pass Incomplete Multi-View Clustering
+14. Online multi-view clustering with incomplete views
+15. Partial multi-view clustering using graph regularized NMF
+16. Partial multi-view clustering
+17. Partial multi-view outlier detection based on collective learning
+18. Partially tagged image clustering
+19. Simultaneous representation learning and clustering for incomplete multi-view data
+20. Unsupervised maximum margin incomplete multi-view clustering
 
 
 
 多视图弱标签缺失：
-1.Incomplete multi-view weak-label learning
-2.Multi-view weak-label learning based on matrix completion
+1. Incomplete multi-view weak-label learning
+2. Multi-view weak-label learning based on matrix completion
 
 
 高斯过程多视图缺失：
-1.Shared Gaussian Process Latent Variable Model for Incomplete Multiview Clustering
-2.The EM algorithm for kernel matrix completion with auxiliary data
+1. Shared Gaussian Process Latent Variable Model for Incomplete Multiview Clustering
+2. The EM algorithm for kernel matrix completion with auxiliary data
 
 
 ## Deep  Clustering

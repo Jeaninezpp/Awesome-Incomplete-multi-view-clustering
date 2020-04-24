@@ -73,6 +73,7 @@
 5.Metric learning on healthcare data with incomplete modalities
 6.Partial multi-view clustering via consistent GAN
 
+
 多视图 核方法缺失：
 1.Clustering on multiple incomplete datasets via collective kernel learning
 2.Efficient and Effective Regularized Incomplete Multi-view Clustering
@@ -109,13 +110,17 @@
 20.Unsupervised maximum margin incomplete multi-view clustering
 
 
+
 多视图弱标签缺失：
 1.Incomplete multi-view weak-label learning
 2.Multi-view weak-label learning based on matrix completion
+
 
 高斯过程多视图缺失：
 1.Shared Gaussian Process Latent Variable Model for Incomplete Multiview Clustering
 2.The EM algorithm for kernel matrix completion with auxiliary data
 
+
 ## Deep  Clustering
 1. Deep subspace clustering networks.
+

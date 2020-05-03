@@ -48,38 +48,38 @@
 3. Diagnosis of Alzheimer's disease using view-aligned hypergraph learning with incomplete multi-modality data
 
 4. Incomplete multi-view clustering via graph regularized matrix factorization(2018ECCV)
-[文杰](https://sites.google.com/view/jerry-wen-hit/publications)
-[paper](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11132/Wen_Incomplete_Multi-view_Clustering_via_Graph_Regularized_Matrix_Factorization_ECCVW_2018_paper.pdf)
-[code](https://drive.google.com/file/d/14QgLE8qc2sRum4w7Qk-0qRhGdwr2OZAi/view)
+[文杰主页](https://sites.google.com/view/jerry-wen-hit/publications)
+[[paper]](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11132/Wen_Incomplete_Multi-view_Clustering_via_Graph_Regularized_Matrix_Factorization_ECCVW_2018_paper.pdf)
+[[code]](https://drive.google.com/file/d/14QgLE8qc2sRum4w7Qk-0qRhGdwr2OZAi/view)
 
 5. Incomplete Multi-view Clustering via Subspace Learning(2015CIKM)
-[paper](https://dl.acm.org/doi/pdf/10.1145/2806416.2806526)
-[note](https://blog.csdn.net/zpainter/article/details/105724986)
+[[paper]](https://dl.acm.org/doi/pdf/10.1145/2806416.2806526)
+[[note]](https://blog.csdn.net/zpainter/article/details/105724986)
 
 6. Incomplete multi-view clustering(2016)
 没找到论文
 
 7. Incomplete multiview spectral clustering with adaptive graph learning(2020 Cybernetics)
 (文杰)
-[paper](http://www.yongxu.org/paper/FINALVERSION.pdf)
-[code](https://drive.google.com/file/d/1gz6oBXt1qxi1Hdz9jEn6Q42xU75dnubE/view)
+[[paper]](http://www.yongxu.org/paper/FINALVERSION.pdf)
+[[code]](https://drive.google.com/file/d/1gz6oBXt1qxi1Hdz9jEn6Q42xU75dnubE/view)
 
 8. Partial multi-view spectral clustering(2018Neurocomputing)
-[paper](https://www.researchgate.net/publication/325383082_Partial_Multi-View_Spectral_Clustering)
+[[paper]](https://www.researchgate.net/publication/325383082_Partial_Multi-View_Spectral_Clustering)
 
 9. Partial multi-view subspace clustering(2018MM Multimedia)
-[paper](https://dl.acm.org/doi/10.1145/3240508.3240679)
+[[paper]](https://dl.acm.org/doi/10.1145/3240508.3240679)
 
 10. Spectral perturbation meets incomplete multi-view data(2019IJCAI)
-[paper](https://www.ijcai.org/Proceedings/2019/0510.pdf)
+[[paper]](https://www.ijcai.org/Proceedings/2019/0510.pdf)
 
 11. Unified embedding alignment with missing views inferring for incomplete multi-view clustering(2019AAAI)
 (文杰)
-[paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/4478)
-[code](https://drive.google.com/file/d/1I8sP4lHpsoDss4sR_0BsL_Wvm0W5HcoD/view)
+[[paper]](https://www.aaai.org/ojs/index.php/AAAI/article/view/4478)
+[[code]](https://drive.google.com/file/d/1I8sP4lHpsoDss4sR_0BsL_Wvm0W5HcoD/view)
 
 12. Unified subspace learning for incomplete and unlabeled multi-view data(2019 Pattern Recognition)
-[paper](http://ir.ia.ac.cn/bitstream/173211/14541/1/Unified%20subspace%20learning%20for%20incomplete%20and%20unlabeled%20multi-view%20data.pdf)
+[[paper]](http://ir.ia.ac.cn/bitstream/173211/14541/1/Unified%20subspace%20learning%20for%20incomplete%20and%20unlabeled%20multi-view%20data.pdf)
 
 多视图 深度方法 缺失：
 1. Adversarial incomplete multi-view clustering

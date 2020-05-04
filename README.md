@@ -56,8 +56,8 @@
 [[paper]](https://dl.acm.org/doi/pdf/10.1145/2806416.2806526)
 [[note]](https://blog.csdn.net/zpainter/article/details/105724986)
 
-6. Incomplete multi-view clustering(2016)
-没找到论文
+6. Incomplete multi-view clustering(2016 Intelligent Information Processing VIII)
+
 
 7. Incomplete multiview spectral clustering with adaptive graph learning(2020 Cybernetics)
 (文杰)

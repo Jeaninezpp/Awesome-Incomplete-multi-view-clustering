@@ -111,7 +111,10 @@
 5. Joint Embedding Learning and Low-Rank Approximation-A Framework for Incomplete Multiview Learning
 6. Low-rank multi-view learning in matrix completion for multi-label image classification
 7. Multiple incomplete views clustering via non-negative matrix factorization with its application in Alzheimer's disease analysis
-8. Multiple Incomplete Views Clustering via Weighted Nonnegative Matrix Factorization with L_{2,1} Regularization
+
+8. Multiple Incomplete Views Clustering via Weighted Nonnegative Matrix Factorization with L_{2,1} Regularization (2015 ECML/PKDD)
+[[paper]](https://www.researchgate.net/publication/281826567_Multiple_Incomplete_Views_Clustering_via_Weighted_Nonnegative_Matrix_Factorization_with_L21_Regularization)
+
 9. Multi-view cluster analysis with incomplete data to understand treatment effects
 10. Multi-view clustering with constraint propagation for learning with an incomplete mapping between views
 11. Multi-View Learning With Incomplete Views

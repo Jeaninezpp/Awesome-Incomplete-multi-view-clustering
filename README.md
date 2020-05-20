@@ -120,6 +120,8 @@
 11. Multi-View Learning With Incomplete Views
 12. Multi-view missing data completion
 13. One-Pass Incomplete Multi-View Clustering
+[[paper]](https://arxiv.org/pdf/1903.00637.pdf)
+
 14. Online multi-view clustering with incomplete views
 15. Partial multi-view clustering using graph regularized NMF
 16. Partial multi-view clustering

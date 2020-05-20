@@ -78,7 +78,7 @@
 [[paper]](https://www.aaai.org/ojs/index.php/AAAI/article/view/4478)
 [[code]](https://drive.google.com/file/d/1I8sP4lHpsoDss4sR_0BsL_Wvm0W5HcoD/view)
 
-12. Unified subspace learning for incomplete and unlabeled multi-view data(2019 Pattern Recognition)
+12. Unified subspace learning for incomplete and unlabeled multi-view data(2017 Pattern Recognition)
 [[paper]](http://ir.ia.ac.cn/bitstream/173211/14541/1/Unified%20subspace%20learning%20for%20incomplete%20and%20unlabeled%20multi-view%20data.pdf)
 
 多视图 深度方法 缺失：

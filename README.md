@@ -1,4 +1,5 @@
 # paper
+@[TOC]()
 ## Multi-view Clustering
 ### Survey
 1. 2013：[A survey on multi-view learning](https://arxiv.org/pdf/1304.5634.pdf)
@@ -143,5 +144,5 @@
 
 
 ## Deep  Clustering
-1. Deep subspace clustering networks.
+1. Deep subspace clustering networks.[[paper]](http://papers.nips.cc/paper/6608-deep-subspace-clustering-networks.pdf)[[Note]](https://blog.csdn.net/zpainter/article/details/106444093)
 

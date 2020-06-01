@@ -6,8 +6,6 @@
   * [Incomplete Multi-view Clustering](#incomplete-multi-view-clustering)
   * [Deep  Clustering](#deep--clustering)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 
 ## Multi-view Clustering
 ### Survey
@@ -155,3 +153,4 @@
 ## Deep  Clustering
 1. Deep subspace clustering networks.[[paper]](http://papers.nips.cc/paper/6608-deep-subspace-clustering-networks.pdf)[[Note]](https://blog.csdn.net/zpainter/article/details/106444093)
 
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>

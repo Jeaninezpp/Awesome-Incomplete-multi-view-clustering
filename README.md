@@ -1,5 +1,14 @@
 # paper
-@[TOC]()
+- [paper](#paper)
+  * [Multi-view Clustering](#multi-view-clustering)
+    + [Survey](#survey)
+    + [Multi-view Subspace Clustering](#multi-view-subspace-clustering)
+  * [Incomplete Multi-view Clustering](#incomplete-multi-view-clustering)
+  * [Deep  Clustering](#deep--clustering)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 ## Multi-view Clustering
 ### Survey
 1. 2013：[A survey on multi-view learning](https://arxiv.org/pdf/1304.5634.pdf)

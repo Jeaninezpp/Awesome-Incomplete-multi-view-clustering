@@ -69,6 +69,7 @@
 
 7. Incomplete multiview spectral clustering with adaptive graph learning(2020 Cybernetics)
 (文杰)
+[[Note]](https://blog.csdn.net/zpainter/article/details/106708149)
 [[paper]](http://www.yongxu.org/paper/FINALVERSION.pdf)
 [[code]](https://drive.google.com/file/d/1gz6oBXt1qxi1Hdz9jEn6Q42xU75dnubE/view)
 

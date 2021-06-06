@@ -97,6 +97,11 @@
 4. li2019
 5. Metric learning on healthcare data with incomplete modalities
 6. Partial multi-view clustering via consistent GAN
+7. DIMC-net: Deep Incomplete Multi-view Clustering Network
+8. COMPLETER: Incomplete Multi-view Clustering via Contrastive Prediction
+9. iCmSC: Incomplete Cross-Modal Subspace Clustering [[paper]](https://ieeexplore.ieee.org/abstract/document/9259207) [[code]](https://github.com/IMKBLE/iCmSC)
+10. Adversarial Incomplete Multi-view Clustering
+11. Partial Multi-view Clustering via Consistent GAN [[paper]](https://ieeexplore.ieee.org/abstract/document/8594983/) [[code]](https://github.com/IMKBLE/PVC-GAN)
 
 
 多视图 核方法缺失：

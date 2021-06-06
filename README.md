@@ -1,10 +1,10 @@
-# paper
-- [paper](#paper)
+## Content
+- [Content](#Content)
   * [Multi-view Clustering](#multi-view-clustering)
     + [Survey](#survey)
     + [Multi-view Subspace Clustering](#multi-view-subspace-clustering)
   * [Incomplete Multi-view Clustering](#incomplete-multi-view-clustering)
-  * [Deep  Clustering](#deep--clustering)
+  * [Deep Clustering](#deep-clustering)
 
 
 ## Multi-view Clustering
@@ -156,7 +156,7 @@
 2. The EM algorithm for kernel matrix completion with auxiliary data
 
 
-## Deep  Clustering
+## Deep Clustering
 1. Deep subspace clustering networks.[[paper]](http://papers.nips.cc/paper/6608-deep-subspace-clustering-networks.pdf)[[Note]](https://blog.csdn.net/zpainter/article/details/106444093)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>

@@ -1,3 +1,12 @@
+[stars-img]: https://img.shields.io/github/stars/Jeaninezpp/Incomplete-multi-view-clustering?style=plastic
+[stars-url]: https://github.com/Jeaninezpp/Incomplete-multi-view-clustering/stargazers
+[fork-img]: https://img.shields.io/github/forks/Jeaninezpp/Incomplete-multi-view-clustering?style=plastic
+[fork-url]: https://github.com/Jeaninezpp/Incomplete-multi-view-clustering/network/members
+
+[![GitHub stars][stars-img]][stars-url]
+[![GitHub forks][fork-img]][fork-url]
+
+
 ## Content
 - [Content](#Content)
   * [Multi-view Clustering](#multi-view-clustering)

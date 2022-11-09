@@ -126,4 +126,4 @@ Generative partial multi-view clustering with adaptive fusion and cycle consiste
 
 ###### TIPS
 - If you find this repository useful to your research or work, it is really appreciate to star this repository. 
-- We are looking forward to any comments or discussions on this topic. :)
+- We are looking forward to any comments or discussions or contribution on this topic. :)

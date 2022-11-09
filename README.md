@@ -105,6 +105,7 @@ We are looking forward for other participants to share their papers and codes. I
 |CPM-Nets: Cross partial multi-view networks||2019|NeurIPS||
 |Deep incomplete multi-view multiple clusterings||2020|ICDM||
 |[CDIMC-net: Cognitive Deep Incomplete Multi-view Clustering Network](https://drive.google.com/file/d/1k6M4kw1gKrjAyLdVpiV8wf7rClt_8W3Q/view)|CDIMC-net|2020|IJCAI|[code](https://drive.google.com/file/d/1oOAWuRBicme0M8YTm1R3Hg8HQ2ydwzfM/view)|
+|[Dimc-net: Deep incomplete multi-view clustering network](https://dl.acm.org/doi/pdf/10.1145/3394171.3413807)|DIMC-net|2020|ACM MM||
 |Structural Deep Incomplete Multi-view Clustering Network||2021|CIKM||
 |[Clustering-Induced Adaptive Structure Enhancing Network for Incomplete Multi-View Data](https://www.ijcai.org/proceedings/2021/0445.pdf)|CASEN|2021|IJCAI||
 Generative partial multi-view clustering with adaptive fusion and cycle consistency||2021|IEEE TIP||
@@ -116,7 +117,6 @@ Generative partial multi-view clustering with adaptive fusion and cycle consiste
 |Robust multi-view clustering with incomplete information|SURE|2022|IEEE TPAMI|[PyTorch](https://github.com/XLearning-SCU/2022-TPAMI-SURE)|
 |[Dual contrastive prediction for incomplete multi-view representation learning](http://pengxi.me/wp-content/uploads/2022/08/DCP.pdf)|DCP|2022|IEEE TPAMI|[code](https://github.com/XLearning-SCU/2022-TPAMI-DCP/tree/d4eae074a2b420e6d28f04cc68b769db07b814bc)|
 |Graph Contrastive Partial Multi-View Clustering|AGCL|2022|IEEE TMM|[code](https://github.com/wangemm/AGCL-TMM-2022)|
-|[Dimc-net: Deep incomplete multi-view clustering network](https://dl.acm.org/doi/pdf/10.1145/3394171.3413807)|DIMC-net|2020|ACM MM||
 |[Deep safe incomplete multi-view clustering: Theorem and algorithm](https://proceedings.mlr.press/v162/tang22c/tang22c.pdf)|DSIMVC|2022|ICML|[code](https://github.com/Gasteinh/DSIMVC)|
 
 
